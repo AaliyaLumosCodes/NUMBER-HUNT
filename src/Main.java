@@ -13,7 +13,7 @@ while(guess != secret){
     System.out.println("INCORRECT! TRY AGAIN.");
     guess = scanner.nextInt();
 }
-System.out.println(" CONGRALUTATIONS5! IT'S CORRECT ");
+System.out.println(" CONGRATULATIONS! IT'S CORRECT ");
 
 
     }
